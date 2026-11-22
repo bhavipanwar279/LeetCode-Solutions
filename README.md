@@ -5,11 +5,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -28,4 +30,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
