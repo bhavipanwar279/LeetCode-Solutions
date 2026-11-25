@@ -34,4 +34,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
