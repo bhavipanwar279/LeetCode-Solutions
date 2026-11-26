@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0200-number-of-islands](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0695-max-area-of-island](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -38,16 +39,19 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
@@ -65,5 +69,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavipanwar279/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
